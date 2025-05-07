@@ -10,5 +10,5 @@ I will learn and share with those who are destined!
 <br />
 **How to reach me:**
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/buithini/)
-<br/>
+
 ![BuiNinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=buithini&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
