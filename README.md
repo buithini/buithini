@@ -3,14 +3,10 @@
 I'm BuiNinh from Vietnam
 I will learn and share with those who are destined!
 <br />
+
 **About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
 - ❤️ I love writing C#,Python,C++
-
+- i love kids.
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -23,11 +19,11 @@ I will learn and share with those who are destined!
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/buithini/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buithini&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/buithini/buithini.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buithini&repo=buithini.github.io&theme=buefy" />
 </a>
 
 <br />
