@@ -13,7 +13,7 @@ I will learn and share with those who are destined!
 
 ![BuiNinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=buithini&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/buithini/test/">
+<a href="https://github.com/buithini/test_public/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=buithini&repo=tes_public&theme=radical" />
 </a>   
