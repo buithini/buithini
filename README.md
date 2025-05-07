@@ -7,20 +7,6 @@ I will learn and share with those who are destined!
 **About me**
 - ❤️ I love writing C#,Python,C++
 - ❤️ I love kids.
+##How to reach me:
 
-
-
-| <a href="https://github.com/buithini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buithini&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/buithini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buithini&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/buithini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buithini&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/buithini/buithini.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buithini&repo=buithini.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
